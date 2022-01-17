@@ -2,7 +2,7 @@
 
 As our new Jr. Full Stack Developer for this exciting and hip new company, we want you to lay the foundation for our new internal website so we can better manage our business!
 
-We have taken the liberty of creating this mini-startup-project using *.Net Framework 4.7.2* and supplied you with our SQL Database (Based on a *SQL 2019 Server*), and we have also already created an **EntityModel** of the Database called *BikeStoresEntity* in this project.
+We have taken the liberty of creating this mini-startup-project using *.Net Framework 4.7.2 MVC* and supplied you with our SQL Database (Based on a *SQL 2019 Server*), and we have also already created an **EntityModel** of the Database called *BikeStoresEntity* in this project.
 You should only thefor need to setup your SQL Database (online or local, your choice) with the provided database (Found in the Database-folder, both as SQL Scripts and as a backup that you can easily restore) and connect it with this project to get started! You'll find the Connection-string in the **Web.config-file**.
 And if you are curious, we have gone with a *Database-first strategy*.
 
